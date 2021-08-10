@@ -1,3 +1,2 @@
-# gremioarco.github.io
-Site do Grêmio Estudantil da Arco Escola Cooperativa /
-https://gremioarco.github.io
+# Grêmio Arco
+[Site](https://gremioarco.github.io) do Grêmio Estudantil da Arco Escola Cooperativa 
